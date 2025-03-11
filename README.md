@@ -38,7 +38,7 @@ This template is a clean and modern **Next.js** single-page application with **s
 1️⃣ Clone the Repository
 
 git clone https://github.com/shasank1290/nextjs_template.git
-cd Legacy_Developers
+cd nextjs_template
 
 2️⃣ Install Dependencies
 npm install
