@@ -17,6 +17,7 @@ This template is a clean and modern **Next.js** single-page application with **s
 ---
 
 ## 🏗️ **Project Structure**  
+```
 📂 src
 ├── 📁 components
 │   └── Navbar.tsx
@@ -32,46 +33,66 @@ This template is a clean and modern **Next.js** single-page application with **s
 ├── next.config.js
 ├── package.json
 ├── tsconfig.json
+```
 
-🚀 Setup Guide
+---
 
-1️⃣ Clone the Repository
+## 🚀 **Setup Guide**  
 
+### 1️⃣ **Clone the Repository**  
+```bash
 git clone https://github.com/shasank1290/nextjs_template.git
 cd nextjs_template
+```
 
-2️⃣ Install Dependencies
+### 2️⃣ **Install Dependencies**  
+```bash
 npm install
+```
 
-4️⃣ Build for Production
+### 3️⃣ **Start the Development Server**  
+```bash
+npm run dev
+```
+
+### 4️⃣ **Build for Production**  
+```bash
 npm run build
+```
 
-🔥 How It Works
+---
 
-✅ Lenis for Smooth Scrolling
-Lenis provides buttery smooth scrolling across all sections. 😍
+## 🔥 **How It Works**  
 
-🎯 Tech Stack
-✅ Next.js — React-based framework for SSR & SSG
-✅ Tailwind CSS — Utility-first CSS framework
-✅ Lenis — Smooth scrolling library
+✅ **Lenis for Smooth Scrolling**  
+Lenis provides buttery smooth scrolling across all sections. 😍  
 
+---
 
-⭐ Why This Template?
-Saves time ⏳
-Clean, organized code 🏆
-Ready to use for personal and professional projects 💼
+## 🎯 **Tech Stack**  
+✅ **Next.js** — React-based framework for SSR & SSG  
+✅ **Tailwind CSS** — Utility-first CSS framework  
+✅ **Lenis** — Smooth scrolling library  
 
+---
 
-🔗 Connect with Me
-💼 GitHub
-📸 Instagram
-💼 LinkedIn
+## ⭐ **Why This Template?**  
+✔️ Saves time ⏳  
+✔️ Clean, organized code 🏆  
+✔️ Ready to use for personal and professional projects 💼  
 
+---
 
-🌟 Give It a Star!
-If you find this helpful, give it a ⭐ on GitHub! 😍
+## 🔗 **Connect with Me**  
+[💼 GitHub](https://github.com/shasank1290)    
+[💼 LinkedIn](https://www.linkedin.com/in/shasank1290/)  
 
+---
 
-🛠️ Contributing
-Feel free to fork this repo, make improvements, and create a pull request. All contributions are welcome! 🚀
+## 🌟 **Give It a Star!**  
+If you find this helpful, give it a ⭐ on GitHub! 😍  
+
+---
+
+## 🛠️ **Contributing**  
+Feel free to fork this repo, make improvements, and create a pull request. All contributions are welcome! 🚀  
