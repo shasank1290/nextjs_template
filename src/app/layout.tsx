@@ -5,7 +5,6 @@ import { usePathname } from "next/navigation";
 import { useLenis } from "../hooks/useLenis";
 import "./globals.css"; 
 import Navbar from "../components/navbar/navbar";
-import SmoothScroller from "../hooks/useLenis";
 
 export default function RootLayout({ children }: { children: ReactNode }) {
   useLenis();
